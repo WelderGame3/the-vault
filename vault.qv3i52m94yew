@@ -21,12 +21,12 @@ Vault_Items = {
 	drink = [
 		"water",
 		"soda",
-		"sprite"
+		"sprite",
 		"sprite cranberry"
 	],
 	misc = [
-		"Computer"
-		"Router"
+		"Computer",
+		"Router",
 		"GitHub"
 	]
 },
