@@ -2,7 +2,9 @@ Vault_Goers = {
 	synoot.exe,
 	Lyannenball.exe,
 	sJevil.exe,
-	Speedy.exe
+	Speedy.exe,
+	Lyannenball_SOC.exe,
+	syn-bot.exe
 },
 Blocked = {
 	sans.exe,
