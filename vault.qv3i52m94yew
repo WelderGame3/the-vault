@@ -24,6 +24,10 @@ Vault_Items = {
 		"sprite",
 		"sprite cranberry"
 	],
+	machines = [
+		"Gas-Generator",
+		"Internet-Tower"
+	],
 	misc = [
 		"Computer",
 		"Router",
