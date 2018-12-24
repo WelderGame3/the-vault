@@ -1,0 +1,44 @@
+Vault_Goers = {
+	synoot.exe,
+	Lyannenball.exe,
+	sJevil.exe,
+	Speedy.exe
+},
+Blocked = {
+	sans.exe,
+	sansbot.exe,
+	ultra-sansbot.exe
+},
+Vault_Administrators = {
+	synoot.exe
+},
+Vault_Items = {
+	food = [
+		"canned",
+		"cookable",
+		"beans"
+	],
+	drink = [
+		"water",
+		"soda",
+		"sprite"
+		"sprite cranberry"
+	],
+	misc = [
+		"Computer"
+		"Router"
+		"GitHub"
+	]
+},
+Security_Measures = {
+	"RSA_Key": "2isfjds9sdf8*SDFdfdsfdsnjkd",
+	"OAuth2_Key": "github.com/synoot/the-vault/oa2-key?raw=true"
+},
+Holidays = {
+     	Eve = [
+          "Christmas"
+     	],
+     	Current = [
+	  "None"
+     	]
+}
